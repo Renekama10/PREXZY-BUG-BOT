@@ -6,7 +6,7 @@ global.ownernomer = "263717750825"
 global.ownername = "Precious Ayomide👑"
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.location = "Sénégal, Dakar, Rufisque"
 
 global.ownernumber = '221755582183'  //creator number
 global.ownername = 'Prexzy Tech' //owner name
