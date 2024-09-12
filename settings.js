@@ -8,8 +8,8 @@ global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Sénégal, Dakar, Rufisque"
 
-global.ownernumber = '221755582183'  //creator number
-global.ownername = 'Prexzy Tech' //owner name
+global.ownernumber = '221768850869'  //creator number
+global.ownername = 'sasuke Uchiwa 😎😎😎😎✌️✌️✌️' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
